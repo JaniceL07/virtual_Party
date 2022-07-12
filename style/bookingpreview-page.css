@@ -1,0 +1,122 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    display: inline-block;
+    margin-left: 700px;
+    margin-top: 20px;
+}
+
+.pageHeader {
+    background-color: #e7cacf;
+    height: 100px;
+    width: 1890px;
+}
+
+.titleBanner {
+    background-color: #e7cacf;
+    height: 80px;
+    width: 921px;
+    margin-left: 520px;
+    border-radius: 10px;
+}
+
+h2 {
+    font-family: Russo One;
+    font-weight: bold;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 40px;
+    color: #e7cacf;
+    font-style: italic;
+    margin-left: 830px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-decoration: underline;
+}
+
+p {
+    font-family: Arial;
+    font-size: 30px;
+    font-weight: bold;
+    color: #e7cacf;
+    text-align: left;
+    line-height: 200%;
+    margin-left: 200px;
+    text-transform: uppercase;
+}
+
+button {
+    background-color: #e7cacf;
+    border-radius: 10px;
+    float: left;
+    margin-top: 35px;
+    margin-left: 30px;
+    border-style: none;
+    cursor: pointer;
+}
+
+button:hover {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+}
+
+button.btn {
+    background-color: #e7cacf;
+    border-radius: 10px;
+    float: right;
+    margin-top: 35px;
+    margin-left: 30px;
+    border-style: none;
+}
+
+.qrCode {
+    margin-left: 840px;
+    display: block;
+}
+
+.imageStyle {
+    text-align: right;
+    display: fixed;
+}
+
+p1 {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #e7cacf;
+}
+
+li {
+    float: left;
+    margin-top: 40px;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: roboto;
+}
